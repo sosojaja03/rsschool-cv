@@ -47,7 +47,7 @@ console.log("The sum of " + number1 + " and " + number2 + " is: " + sum);
 
 - Russian: C1
 - Georgian: Native
-- English: B2
+- English: B1
 
 ## Education
 
